@@ -1,7 +1,7 @@
-def change(money):
-    # write your code here
+import math
 
-    return money
+def change(money):
+    return math.floor(money/10) + math.floor((money%10)/5) + (money % 5)
 
 
 if __name__ == '__main__':
