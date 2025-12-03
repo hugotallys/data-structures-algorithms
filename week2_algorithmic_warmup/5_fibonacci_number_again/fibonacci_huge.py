@@ -42,6 +42,6 @@ def fibonacci_huge(n, m):
 
 
 if __name__ == '__main__':
-    n, m = map(int, input().split())
+    n, m = 10, 2 # map(int, input().split())
     # print(fibonacci_huge_naive(n, m))
     print(fibonacci_huge(n, m))
