@@ -6,7 +6,24 @@ using std::vector;
 
 int binary_search(const vector<int> &a, int x) {
   int left = 0, right = (int)a.size(); 
-  //write your code here
+  while (left <= right) {
+    
+    int middle = (left + right) >> 2;
+    
+    std::cout << "left " << left << " right " << right << std::endl;
+    std::cout << "middle " << middle << " a[middle] " << a[middle] << std::endl;
+
+
+    if (a[middle] == x) {
+      return middle;
+    } else if (a[middle] < x) {
+      left = middle + 1;
+    } else {
+      right = middle - 1;
+    }
+  }
+
+  return -1;
 }
 
 int linear_search(const vector<int> &a, int x) {
@@ -17,20 +34,30 @@ int linear_search(const vector<int> &a, int x) {
 }
 
 int main() {
-  int n;
-  std::cin >> n;
-  vector<int> a(n);
-  for (size_t i = 0; i < a.size(); i++) {
-    std::cin >> a[i];
-  }
-  int m;
-  std::cin >> m;
-  vector<int> b(m);
-  for (int i = 0; i < m; ++i) {
-    std::cin >> b[i];
-  }
-  for (int i = 0; i < m; ++i) {
-    //replace with the call to binary_search when implemented
+//  int n;
+//  std::cin >> n;
+//  vector<int> a(n);
+//  for (size_t i = 0; i < a.size(); i++) {
+//    std::cin >> a[i];
+//  }
+//  int m;
+//  std::cin >> m;
+//  vector<int> b(m);
+//  for (int i = 0; i < m; ++i) {
+//    std::cin >> b[i];
+//  }
+//  for (int i = 0; i < m; ++i) {
+//    // std::cout << linear_search(a, b[i]) << ' ';
+//    std::cout << binary_search(a, b[i]) << ' ';
+//  }
+//  std::cout << std::endl;
+
+  vector<int> a = {1, 5, 8, 12, 13};
+  vector<int> b = {8, 1, 23, 1, 11};
+
+  for (int i = 0; i < 5; ++i) {
     std::cout << linear_search(a, b[i]) << ' ';
+    std::cout << binary_search(a, b[i]) << ' ';
   }
+  std::cout << std::endl;
 }
