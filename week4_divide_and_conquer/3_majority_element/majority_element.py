@@ -1,7 +1,14 @@
 def majority_element_naive(elements):
+    count = {}
     for e in elements:
-        if elements.count(e) > len(elements) / 2:
-            return 1
+        if e not in count:
+            count[e] = 1
+        else:
+            count[e] += 1
+    max_count = max(count.values())
+
+    if max_count > len(elements) / 2:
+        return 1
 
     return 0
 
