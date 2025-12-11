@@ -14,4 +14,4 @@ def change(money, coins):
 
 if __name__ == "__main__":
     m = int(input())
-    print(change(m, [1, 8, 20]))
+    print(change(m, [1, 3, 4]))
