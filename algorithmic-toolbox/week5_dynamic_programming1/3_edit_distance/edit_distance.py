@@ -31,4 +31,10 @@ def edit_distance_no_swap(first_string, second_string):
     return edit[m-1][n-1]
 
 if __name__ == "__main__":
-    print(edit_distance(input(), input()))
+
+    str_1 = "aba"
+    str_2 = "ava"
+
+    print(edit_distance(str_1, str_2))
+
+    # print(edit_distance(input(), input()))

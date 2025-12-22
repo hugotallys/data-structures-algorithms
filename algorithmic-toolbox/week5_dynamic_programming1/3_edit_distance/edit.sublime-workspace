@@ -1,0 +1,917 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"str_2"
+			],
+			[
+				"--",
+				"--lightGreen"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"marginb",
+				"margin-bottom"
+			],
+			[
+				"pers",
+				"personBodyIndex"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"anima",
+				"animalCan"
+			],
+			[
+				"per",
+				"personName"
+			],
+			[
+				"mana",
+				"manager1"
+			],
+			[
+				"inte",
+				"intern1"
+			],
+			[
+				"my",
+				"myVar2"
+			],
+			[
+				"WIN",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"glu",
+				"glutInitDisplayMode"
+			],
+			[
+				"Servo",
+				"ServoFemur"
+			],
+			[
+				"resul",
+				"result_fast"
+			],
+			[
+				"max_",
+				"max_first"
+			],
+			[
+				"v",
+				"vcard-content"
+			],
+			[
+				"var",
+				"vcard-content"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"porj",
+				"project-icons"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"main",
+				"main-content-left"
+			],
+			[
+				"head",
+				"header-buttons"
+			],
+			[
+				"user",
+				"user-info"
+			],
+			[
+				"grid-templ",
+				"grid-template-columns"
+			],
+			[
+				"grid",
+				"grid-template-rows"
+			],
+			[
+				"side",
+				"sidebar-title"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"aling",
+				"align-items"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"greid",
+				"grid-row-end"
+			],
+			[
+				"gridrow",
+				"grid-row"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"gridtemplate",
+				"grid-template-areas"
+			],
+			[
+				"gridtem",
+				"grid-template-areas"
+			],
+			[
+				"gridtempalte",
+				"grid-template-rows"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "edit_distance.py",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAFoEAAAAAAAAWwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgQAAAAAAABaBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFsEAAAAAAAAXAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwQAAAAAAABbBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"BQAAAFoEAAAAAAAAXwQAAAAAAAAAAAAAXwQAAAAAAABkBAAAAAAAAAAAAABbBAAAAAAAAFsEAAAAAAAABAAAACAgICBgBAAAAAAAAGUEAAAAAAAAAAAAAFwEAAAAAAAAXAQAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAWgQAAAAAAABaBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"reindent",
+					null,
+					"AQAAAFsEAAAAAAAAXwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwQAAAAAAABbBAAAAAAAAAAAAAAAAENA"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "str_1"
+					},
+					"BQAAAF8EAAAAAAAAYAQAAAAAAAAAAAAAYAQAAAAAAABhBAAAAAAAAAAAAABhBAAAAAAAAGIEAAAAAAAAAAAAAGIEAAAAAAAAYwQAAAAAAAAAAAAAYwQAAAAAAABkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwQAAAAAAABfBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAGQEAAAAAAAAZQQAAAAAAAAAAAAAZQQAAAAAAABmBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAQAAAAAAABkBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGYEAAAAAAAAZwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgQAAAAAAABmBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"",
+					null,
+					"AQAAAGcEAAAAAAAAaAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwQAAAAAAABnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"",
+					null,
+					"AQAAAGcEAAAAAAAAZwQAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAaAQAAAAAAABoBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAGcEAAAAAAAAaQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwQAAAAAAABnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "aba"
+					},
+					"AwAAAGgEAAAAAAAAaQQAAAAAAAAAAAAAaQQAAAAAAABqBAAAAAAAAAAAAABqBAAAAAAAAGsEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAQAAAAAAABoBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\nsrt"
+					},
+					"BAAAAGwEAAAAAAAAcQQAAAAAAAAAAAAAcQQAAAAAAAByBAAAAAAAAAAAAAByBAAAAAAAAHMEAAAAAAAAAAAAAHMEAAAAAAAAdAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAQAAAAAAABsBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHMEAAAAAAAAcwQAAAAAAAABAAAAdHIEAAAAAAAAcgQAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAdAQAAAAAAAB0BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "tr_2"
+					},
+					"BAAAAHIEAAAAAAAAcwQAAAAAAAAAAAAAcwQAAAAAAAB0BAAAAAAAAAAAAAB0BAAAAAAAAHUEAAAAAAAAAAAAAHUEAAAAAAAAdgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgQAAAAAAAByBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAHYEAAAAAAAAdwQAAAAAAAAAAAAAdwQAAAAAAAB4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgQAAAAAAAB2BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHgEAAAAAAAAeQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAQAAAAAAAB4BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"",
+					null,
+					"AQAAAHkEAAAAAAAAegQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQQAAAAAAAB5BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"",
+					null,
+					"AQAAAHkEAAAAAAAAeQQAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAegQAAAAAAAB6BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "ä"
+					},
+					"AQAAAHkEAAAAAAAAegQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQQAAAAAAAB5BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHkEAAAAAAAAeQQAAAAAAAACAAAAw6Q",
+					"AQAAAAAAAAABAAAAegQAAAAAAAB6BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"",
+					null,
+					"AQAAAHkEAAAAAAAAegQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQQAAAAAAAB5BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"",
+					null,
+					"AQAAAHkEAAAAAAAAeQQAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAegQAAAAAAAB6BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAHkEAAAAAAAAewQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQQAAAAAAAB5BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "ava"
+					},
+					"AwAAAHoEAAAAAAAAewQAAAAAAAAAAAAAewQAAAAAAAB8BAAAAAAAAAAAAAB8BAAAAAAAAH0EAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegQAAAAAAAB6BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "\n\nprint"
+					},
+					"CAAAAH4EAAAAAAAAgwQAAAAAAAAAAAAAgwQAAAAAAACIBAAAAAAAAAAAAAB/BAAAAAAAAH8EAAAAAAAABAAAACAgICCEBAAAAAAAAIUEAAAAAAAAAAAAAIUEAAAAAAAAhgQAAAAAAAAAAAAAhgQAAAAAAACHBAAAAAAAAAAAAACHBAAAAAAAAIgEAAAAAAAAAAAAAIgEAAAAAAAAiQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgQAAAAAAAB+BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIkEAAAAAAAAiwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQQAAAAAAACJBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "edit"
+					},
+					"BAAAAIoEAAAAAAAAiwQAAAAAAAAAAAAAiwQAAAAAAACMBAAAAAAAAAAAAACMBAAAAAAAAI0EAAAAAAAAAAAAAI0EAAAAAAAAjgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigQAAAAAAACKBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert_completion",
+					{
+						"completion": "edit_distance",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "edit_distance"
+					},
+					"AgAAAIoEAAAAAAAAigQAAAAAAAAEAAAAZWRpdIoEAAAAAAAAlwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgQAAAAAAACOBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJcEAAAAAAAAmQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlwQAAAAAAACXBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "se"
+					},
+					"AgAAAJgEAAAAAAAAmQQAAAAAAAAAAAAAmQQAAAAAAACaBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAQAAAAAAACYBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJkEAAAAAAAAmQQAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAmgQAAAAAAACaBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "te"
+					},
+					"AgAAAJkEAAAAAAAAmgQAAAAAAAAAAAAAmgQAAAAAAACbBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmQQAAAAAAACZBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJoEAAAAAAAAmgQAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAmwQAAAAAAACbBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAJoEAAAAAAAAmwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgQAAAAAAACaBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert_completion",
+					{
+						"completion": "str_1",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "str_1"
+					},
+					"AgAAAJgEAAAAAAAAmAQAAAAAAAADAAAAc3RymAQAAAAAAACdBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwQAAAAAAACbBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAJ0EAAAAAAAAngQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQQAAAAAAACdBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " str"
+					},
+					"BAAAAJ4EAAAAAAAAnwQAAAAAAAAAAAAAnwQAAAAAAACgBAAAAAAAAAAAAACgBAAAAAAAAKEEAAAAAAAAAAAAAKEEAAAAAAAAogQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngQAAAAAAACeBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert_completion",
+					{
+						"completion": "str_2",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "str_2"
+					},
+					"AgAAAJ8EAAAAAAAAnwQAAAAAAAADAAAAc3RynwQAAAAAAACkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogQAAAAAAACiBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAFYEAAAAAAAAVgQAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAApgQAAAAAAACmBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"debugger",
+				"Debugger: Open"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"packaege",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termn",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termina",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminal",
+				"Terminus: Close All"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"emmet wra",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Terminus",
+				"Preferences: Terminus Key Bindings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week5_dynamic_programming1",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week5_dynamic_programming1/3_edit_distance"
+	],
+	"file_history":
+	[
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.py",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/README.md",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.py",
+		"/Users/hgtllys/Documents/repos/data-structures-algorithms/warmup/fib.py",
+		"/Users/hgtllys/Documents/repos/lucky-shrub/css/styles.css",
+		"/Users/hgtllys/Documents/repos/lucky-shrub/index.html",
+		"/Users/hgtllys/Desktop/fluxo.txt",
+		"/Users/hgtllys/Documents/ppgi/coursera/meta-full-stack/programming-with-js/programming-paradigms/undefinedProp.js",
+		"/Users/hgtllys/Documents/ppgi/coursera/meta-full-stack/programming-with-js/testing/addFive.js",
+		"/Users/hgtllys/Documents/rust/main.rs",
+		"/Users/hgtllys/Desktop/fluxo.tx",
+		"/Users/hgtllys/Documents/rust/borrow.rs",
+		"/Users/hgtllys/Documents/ppgi/coursera/meta-full-stack/programming-with-js/testing/borrow.rs",
+		"/Users/hgtllys/Documents/ppgi/coursera/meta-full-stack/programming-with-js/testing/README.md",
+		"/Users/hgtllys/Documents/ppgi/coursera/meta-full-stack/programming-with-js/testing/package.json",
+		"/Users/hgtllys/Documents/ppgi/coursera/meta-full-stack/programming-with-js/testing/addFive.test.js",
+		"/Users/hgtllys/Documents/ppgi/cg/ooproramming.js",
+		"/Users/hgtllys/Documents/ppgi/cg/destruct.js",
+		"/Users/hgtllys/Documents/ppgi/cg/spread.js",
+		"/Users/hgtllys/Documents/ppgi/cg/js-return.js",
+		"/Users/hgtllys/Documents/ppgi/cg/func.js",
+		"/Users/hgtllys/Documents/ppgi/cg/js-sucks.js",
+		"/Users/hgtllys/Documents/ppgi/cg/Makefile",
+		"/Users/hgtllys/Documents/ppgi/cg/test.c",
+		"/Users/hgtllys/Documents/ppgi/godot-robotics/hexapod_leg.xml",
+		"/Users/hgtllys/Documents/ppgi/godot-robotics/.gitignore",
+		"/Users/hgtllys/Documents/ppgi/godot-robotics/simulate_hexapod_leg.py",
+		"/Users/hgtllys/Documents/ppgi/godot-robotics/hexapod.xml",
+		"/Users/hgtllys/Documents/ppgi/coursera/data-structures-and-algorithms/Makefile",
+		"/Users/hgtllys/Documents/ppgi/coursera/data-structures-and-algorithms/max_pairwise_product.cpp",
+		"/Users/hgtllys/Documents/mujoco-tutorial/simulate_arm.py",
+		"/Users/hgtllys/Documents/mujoco-tutorial/hello.xml",
+		"/Users/hgtllys/Documents/easy-jfal/ian/report.html",
+		"/Users/hgtllys/Documents/easy-jfal/geracao-documentos-ia/data/VSW/e-lib/Codigo/App/app/components/expandable/expandable.component.html",
+		"/Users/hgtllys/Documents/repos/full-stack-js/javascript/object-constructor.js",
+		"/Users/hgtllys/Documents/repos/full-stack-js/javascript/index.js",
+		"/Users/hgtllys/Documents/repos/odin-admin-dashboard/style.css",
+		"/Users/hgtllys/Documents/repos/odin-admin-dashboard/index.html",
+		"/Users/hgtllys/Documents/repos/odin-admin-dashboard/icons/view-dashboard.svg",
+		"/Users/hgtllys/Documents/backend-projects/task-tracker/main.js"
+	],
+	"find":
+	{
+		"height": 145.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "edit_distance.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								929,
+								929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 145.0
+	},
+	"input":
+	{
+		"height": 145.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 231.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "edit.sublime-project",
+	"replace":
+	{
+		"height": 286.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

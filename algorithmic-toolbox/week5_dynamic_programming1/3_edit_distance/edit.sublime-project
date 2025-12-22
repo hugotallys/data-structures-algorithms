@@ -1,0 +1,17 @@
+{
+	"debugger_configurations":
+	[
+		{
+			"name": "Python: Current File",
+			"type": "python",
+			"request": "launch",
+			"program": "${file}"
+		},
+	],
+	"folders":
+	[
+		{
+			"path": "/Users/hgtllys/Documents/repos/data-structures-algorithms"
+		}
+	]
+}
