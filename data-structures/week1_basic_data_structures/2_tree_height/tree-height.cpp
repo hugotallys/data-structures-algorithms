@@ -1,6 +1,7 @@
 #include <algorithm>
 #include <iostream>
 #include <vector>
+#include <queue>
 #if defined(__unix__) || defined(__APPLE__)
 #include <sys/resource.h>
 #endif
@@ -12,6 +13,7 @@ public:
     int key;
     Node *parent;
     std::vector<Node *> children;
+    int depth = 1;
 
     Node() {
       this->parent = NULL;
@@ -31,21 +33,29 @@ int main_with_large_stack_space() {
 
   std::vector<Node> nodes;
   nodes.resize(n);
+
+  std::queue<int> Q;
+
   for (int child_index = 0; child_index < n; child_index++) {
     int parent_index;
     std::cin >> parent_index;
     if (parent_index >= 0)
       nodes[child_index].setParent(&nodes[parent_index]);
+    else
+      Q.push(child_index);
     nodes[child_index].key = child_index;
   }
 
-  // Replace this code with a faster implementation
   int maxHeight = 0;
-  for (int leaf_index = 0; leaf_index < n; leaf_index++) {
-    int height = 0;
-    for (Node *v = &nodes[leaf_index]; v != NULL; v = v->parent)
-      height++;
-    maxHeight = std::max(maxHeight, height);
+
+  while (!Q.empty()) {
+    int u = Q.front();
+    maxHeight = (maxHeight < nodes[u].depth) ? nodes[u].depth : maxHeight;
+    Q.pop();
+    for (const auto& node : nodes[u].children) {
+      node->depth = nodes[u].depth + 1;
+      Q.push(node->key);
+    }
   }
     
   std::cout << maxHeight << std::endl;

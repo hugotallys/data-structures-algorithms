@@ -1,12 +1,16 @@
 #include <iostream>
+#include <ostream>
 #include <stack>
 #include <string>
 
 struct Bracket {
-    Bracket(char type, int position):
-        type(type),
-        position(position)
-    {}
+    char type;
+    int position;
+
+    Bracket(char type, int position) {
+        this->type = type;
+        this->position = position;
+    }
 
     bool Matchc(char c) {
         if (type == '[' && c == ']')
@@ -17,9 +21,6 @@ struct Bracket {
             return true;
         return false;
     }
-
-    char type;
-    int position;
 };
 
 int main() {
@@ -31,15 +32,34 @@ int main() {
         char next = text[position];
 
         if (next == '(' || next == '[' || next == '{') {
-            // Process opening bracket, write your code here
+            Bracket current{next, position};
+            opening_brackets_stack.push(current);
         }
 
         if (next == ')' || next == ']' || next == '}') {
-            // Process closing bracket, write your code here
+            if (!opening_brackets_stack.empty()) {
+                Bracket top = opening_brackets_stack.top();
+                if (top.Matchc(next)) {
+                    opening_brackets_stack.pop();
+                } else {
+                    Bracket current{next, position};
+                    opening_brackets_stack.push(current);
+                    break;
+                }
+            } else {
+                Bracket current{next, position};
+                opening_brackets_stack.push(current);
+                break;
+            }
         }
     }
 
-    // Printing answer, write your code here
+    if (opening_brackets_stack.empty()) {
+        std::cout << "Success" << std::endl;
+    } else {
+        Bracket top = opening_brackets_stack.top();
+        std::cout << top.position + 1 << std::endl;
+    }
 
     return 0;
 }
